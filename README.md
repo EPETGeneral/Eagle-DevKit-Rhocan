@@ -1,2 +1,3 @@
 # Eagle-DevKit-Rhocan
-PCB Models
+
+PCB para leitura dos sensores
